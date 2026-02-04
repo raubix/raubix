@@ -1,16 +1,15 @@
-## Hi there 👋
+![header](https://i.imgur.com/8HKbCAY.png?raw=true "header")
+<br />
+<h4 align="left">How to find me</h4>
+<p><img src="https://img.shields.io/badge/@raubix-blue?style=for-the-badge&logo=discord&logoColor=fff" /> <a href="https://www.youtube.com/@raubix"><img src="https://img.shields.io/badge/@raubix-red?style=for-the-badge&logo=youtube&logoColor=fff" /></a> <a href="https://www.twitch.tv/philipp_x210"><img src="https://img.shields.io/badge/@raubix-purple?style=for-the-badge&logo=twitch&logoColor=fff" /></a></p>
 
-<!--
-**raubix/raubix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">FYI</h4>
+Everything you see here will not be professional, but simply created on the side and for my personal amusement - so don't expect too much!
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h4 align="left">What I use</h4>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.w3schools.com/nodejs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.w3schools.com/lua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a></p>
