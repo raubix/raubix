@@ -1,7 +1,7 @@
 ![header](https://i.imgur.com/8HKbCAY.png?raw=true "header")
 <br />
 <h4 align="left">How to find me</h4>
-<p><img src="https://img.shields.io/badge/@raubix-blue?style=for-the-badge&logo=discord&logoColor=fff" /> <a href="https://www.youtube.com/@raubix"><img src="https://img.shields.io/badge/@raubix-red?style=for-the-badge&logo=youtube&logoColor=fff" /></a> <a href="https://www.twitch.tv/philipp_x210"><img src="https://img.shields.io/badge/@raubix-purple?style=for-the-badge&logo=twitch&logoColor=fff" /></a></p>
+<p><img src="https://img.shields.io/badge/@raubix-blue?style=for-the-badge&logo=discord&logoColor=fff" /> <a href="https://www.youtube.com/@raubix"><img src="https://img.shields.io/badge/@raubix-red?style=for-the-badge&logo=youtube&logoColor=fff" /></a> <a href="https://www.twitch.tv/raubix"><img src="https://img.shields.io/badge/@raubix-purple?style=for-the-badge&logo=twitch&logoColor=fff" /></a></p>
 
 <h4 align="left">FYI</h4>
 Everything you see here will not be professional, but simply created on the side and for my personal amusement - so don't expect too much!
